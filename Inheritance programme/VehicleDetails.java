@@ -140,4 +140,5 @@ public class VehicleDetails {
 
         sc.close();
     }
+
 }
