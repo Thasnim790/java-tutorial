@@ -15,7 +15,7 @@ class Vehicle {
     }
 
     void displayInfo() {
-        System.out.println("Brand: " + brand);
+        System.out.println("Brand: " + Brand);
         System.out.println("Model: " + model);
         System.out.println("Year: " + year);
         System.out.printf("Base Price: %.2f\n", basePrice);
@@ -142,3 +142,4 @@ public class VehicleDetails {
     }
 
 }
+
